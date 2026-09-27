@@ -1,0 +1,242 @@
+[
+  {
+    "id": "m1",
+    "name": "Green Valley Organic Market",
+    "area": "Downtown",
+    "address": "450 Market Street, Downtown Plaza",
+    "days": ["Saturday", "Sunday"],
+    "hours": {
+      "open": "07:00",
+      "close": "15:00",
+      "display": "07:00 AM - 03:00 PM"
+    },
+    "description": "A vibrant weekend market featuring certified organic farm produce, artisan cheeses, freshly baked breads, and wildflower honey.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Dairy", "Grains"],
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "rating": 4.9,
+    "phone": "(555) 234-5678",
+    "email": "hello@greenvalleymarket.org",
+    "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m2",
+    "name": "Riverfront Farmers Bazaar",
+    "area": "Riverfront",
+    "address": "120 Riverside Drive, Docklands",
+    "days": ["Wednesday", "Saturday"],
+    "hours": {
+      "open": "08:00",
+      "close": "14:00",
+      "display": "08:00 AM - 02:00 PM"
+    },
+    "description": "Located along the scenic riverbank, offering fresh orchard fruits, root vegetables, cold-pressed juices, and handcrafted jams.",
+    "produce": ["Fruits", "Vegetables", "Herbs"],
+    "latitude": 37.7833,
+    "longitude": -122.4167,
+    "rating": 4.8,
+    "phone": "(555) 876-5432",
+    "email": "info@riverfrontbazaar.com",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m3",
+    "name": "Highland Park Fresh Hub",
+    "area": "Highland Park",
+    "address": "889 Crestview Avenue, Highland Park",
+    "days": ["Tuesday", "Thursday", "Saturday"],
+    "hours": {
+      "open": "09:00",
+      "close": "17:00",
+      "display": "09:00 AM - 05:00 PM"
+    },
+    "description": "Neighborhood hub offering fresh heirloom tomatoes, microgreens, fresh dairy, free-range eggs, and seasonal berries directly from family growers.",
+    "produce": ["Vegetables", "Herbs", "Dairy", "Fruits"],
+    "latitude": 37.765,
+    "longitude": -122.44,
+    "rating": 4.7,
+    "phone": "(555) 345-6789",
+    "email": "contact@highlandfresh.org",
+    "image": "https://images.unsplash.com/photo-1573246123716-6b1782bfc499?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m4",
+    "name": "Sunnyvale Artisan & Produce Market",
+    "area": "Sunnyvale",
+    "address": "302 Orchard Way, Sunnyvale Square",
+    "days": ["Friday", "Saturday", "Sunday"],
+    "hours": {
+      "open": "08:00",
+      "close": "16:00",
+      "display": "08:00 AM - 04:00 PM"
+    },
+    "description": "Community favorite showcasing sun-ripened stone fruits, crisp leafy greens, fresh herbs, organic oats, and cultured butter.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Grains", "Dairy"],
+    "latitude": 37.75,
+    "longitude": -122.42,
+    "rating": 4.9,
+    "phone": "(555) 456-7890",
+    "email": "hello@sunnyvalemarket.com",
+    "image": "https://images.unsplash.com/photo-1516253593875-bd7ba052fbc5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m5",
+    "name": "West End Farmers Collective",
+    "area": "West End",
+    "address": "742 West End Boulevard, District 4",
+    "days": ["Monday", "Wednesday", "Friday"],
+    "hours": {
+      "open": "07:00",
+      "close": "13:00",
+      "display": "07:00 AM - 01:00 PM"
+    },
+    "description": "Early morning farmers collective specializing in hydroponic herbs, organic mushrooms, fresh stoneground flour, and pasture-raised milk.",
+    "produce": ["Vegetables", "Herbs", "Grains", "Dairy"],
+    "latitude": 37.77,
+    "longitude": -122.45,
+    "rating": 4.6,
+    "phone": "(555) 567-8901",
+    "email": "support@westendfarmers.org",
+    "image": "https://images.unsplash.com/photo-1610348725531-843dff563e2c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m6",
+    "name": "Oakridge Harvest Market",
+    "area": "Oakridge",
+    "address": "150 Oakridge Lane, Country Mall",
+    "days": ["Saturday", "Sunday"],
+    "hours": {
+      "open": "08:30",
+      "close": "14:30",
+      "display": "08:30 AM - 02:30 PM"
+    },
+    "description": "Rustic market filled with seasonal apples, squash, sweet potatoes, fresh yogurt, sourdough loaves, and culinary herbs.",
+    "produce": ["Fruits", "Vegetables", "Grains", "Dairy"],
+    "latitude": 37.73,
+    "longitude": -122.4,
+    "rating": 4.8,
+    "phone": "(555) 678-9012",
+    "email": "info@oakridgeharvest.com",
+    "image": "https://images.unsplash.com/photo-1506484381205-f7945653044d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m7",
+    "name": "Harbor District Fresh Fair",
+    "area": "Harbor District",
+    "address": "90 Pier Side Way, Harbor Promenade",
+    "days": ["Thursday", "Sunday"],
+    "hours": {
+      "open": "10:00",
+      "close": "18:00",
+      "display": "10:00 AM - 06:00 PM"
+    },
+    "description": "Seaside fresh fair bringing together coastal citrus, crisp celery, gourmet mint, artisanal cheeses, and fresh olive oils.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Dairy"],
+    "latitude": 37.79,
+    "longitude": -122.39,
+    "rating": 4.7,
+    "phone": "(555) 789-0123",
+    "email": "contact@harborfreshfair.org",
+    "image": "https://images.unsplash.com/photo-1519996529931-28324d5a630e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m8",
+    "name": "Valley Plaza Farmers Corner",
+    "area": "Valley Plaza",
+    "address": "550 Valley Plaza Road, Green Suburb",
+    "days": ["Wednesday", "Saturday", "Sunday"],
+    "hours": {
+      "open": "08:00",
+      "close": "15:00",
+      "display": "08:00 AM - 03:00 PM"
+    },
+    "description": "Family-friendly market offering organic berries, sweet corn, fresh basil, whole grains, and artisanal ice cream.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Grains", "Dairy"],
+    "latitude": 37.72,
+    "longitude": -122.46,
+    "rating": 4.9,
+    "phone": "(555) 890-1234",
+    "email": "hello@valleyfarmers.com",
+    "image": "https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m9",
+    "name": "East Bay Organic Grove",
+    "area": "East Bay",
+    "address": "210 Bayview Drive, East Bay Point",
+    "days": ["Tuesday", "Saturday"],
+    "hours": {
+      "open": "07:30",
+      "close": "13:30",
+      "display": "07:30 AM - 01:30 PM"
+    },
+    "description": "Eco-focused market with zero-waste packaging, wild mushrooms, fresh microgreens, raw goat milk, and heirloom grains.",
+    "produce": ["Vegetables", "Herbs", "Grains", "Dairy"],
+    "latitude": 37.8,
+    "longitude": -122.35,
+    "rating": 4.8,
+    "phone": "(555) 901-2345",
+    "email": "info@eastbaygrove.org",
+    "image": "https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m10",
+    "name": "Northside Produce Market",
+    "area": "Northside",
+    "address": "620 North Park Way, Northside",
+    "days": ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"],
+    "hours": {
+      "open": "08:00",
+      "close": "18:00",
+      "display": "08:00 AM - 06:00 PM"
+    },
+    "description": "Daily fresh produce hub known for crisp apples, juicy peaches, vibrant bell peppers, fresh rosemary, and farm butter.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Dairy"],
+    "latitude": 37.81,
+    "longitude": -122.42,
+    "rating": 4.9,
+    "phone": "(555) 012-3456",
+    "email": "contact@northsideproduce.com",
+    "image": "https://images.unsplash.com/photo-1543083477-4f785aeafaa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "m11",
+    "name": "Willow Creek Farmstead Market",
+    "area": "Riverfront",
+    "address": "510 Willowbrook Lane, Riverfront Pier",
+    "days": ["Thursday", "Saturday", "Sunday"],
+    "hours": {
+      "open": "08:00",
+      "close": "15:00",
+      "display": "08:00 AM - 03:00 PM"
+    },
+    "description": "Scenic riverside farmstead market featuring crisp orchard berries, organic mushrooms, fresh sourdough bread, and wildflower honey.",
+    "produce": ["Fruits", "Vegetables", "Herbs", "Dairy"],
+    "latitude": 37.788,
+    "longitude": -122.415,
+    "rating": 4.9,
+    "phone": "(555) 654-3210",
+    "email": "contact@willowcreekmarket.org",
+    "image": "/images/market-willowcreek.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Woodland Green Growers Market",
+    "area": "Highland Park",
+    "address": "830 Woodland Terrace, Highland Park",
+    "days": ["Tuesday", "Friday", "Sunday"],
+    "hours": {
+      "open": "08:30",
+      "close": "16:00",
+      "display": "08:30 AM - 04:00 PM"
+    },
+    "description": "Cozy parkside growers market offering sun-ripened heritage tomatoes, fresh microgreens, raw clover honey, and artisan cheeses.",
+    "produce": ["Vegetables", "Herbs", "Grains", "Dairy"],
+    "latitude": 37.768,
+    "longitude": -122.438,
+    "rating": 4.8,
+    "phone": "(555) 765-4321",
+    "email": "info@woodlandgreenmarket.com",
+    "image": "/images/market-sunsetbay.jpg"
+  }
+]

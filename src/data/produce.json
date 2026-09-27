@@ -1,0 +1,145 @@
+[
+  {
+    "id": "p1",
+    "name": "Heirloom Tomatoes",
+    "category": "Vegetables",
+    "season": "Summer",
+    "description": "Juicy, colorful heirloom tomatoes grown naturally without synthetic pesticides. Perfect for caprese salads, fresh salsas, and sauces.",
+    "availability": "June - September",
+    "benefits": "Rich in Lycopene, Vitamin C, and Potassium",
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m3", "m4", "m10"]
+  },
+  {
+    "id": "p2",
+    "name": "Organic Honeycrisp Apples",
+    "category": "Fruits",
+    "season": "Autumn",
+    "description": "Crisp, ultra-sweet orchard apples with a delightful crunch. Hand-harvested from local mountain orchards.",
+    "availability": "September - November",
+    "benefits": "High in Dietary Fiber and Antioxidants",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m2", "m6", "m10"]
+  },
+  {
+    "id": "p3",
+    "name": "Fresh Sweet Basil",
+    "category": "Herbs",
+    "season": "Summer",
+    "description": "Aromatic Genovese basil harvested fresh daily. Essential for pestos, pasta dishes, and refreshing herbal infusions.",
+    "availability": "May - October",
+    "benefits": "Anti-inflammatory and Antimicrobial properties",
+    "image": "/images/produce-basil.jpg",
+    "relatedMarkets": ["m1", "m3", "m5", "m7", "m8"]
+  },
+  {
+    "id": "p4",
+    "name": "Artisanal Goat Cheese",
+    "category": "Dairy",
+    "season": "All-Year",
+    "description": "Creamy, tangy chèvre handcrafted in small batches by pasture-based goat dairies. Rolled in fresh garden herbs.",
+    "availability": "Year-Round",
+    "benefits": "Easy to digest, rich in Protein & Calcium",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m4", "m7", "m9"]
+  },
+  {
+    "id": "p5",
+    "name": "Organic Steel-Cut Oats",
+    "category": "Grains",
+    "season": "All-Year",
+    "description": "Stoneground whole oats sourced from regional organic grain farms. Rich nutty flavor and satisfying texture.",
+    "availability": "Year-Round",
+    "benefits": "Supports Heart Health and Sustained Energy",
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m4", "m5", "m6", "m8"]
+  },
+  {
+    "id": "p6",
+    "name": "Wild Spring Strawberries",
+    "category": "Fruits",
+    "season": "Spring",
+    "description": "Fragrant, deeply red strawberries ripened naturally in coastal sunshine. Unbeatably sweet and juicy.",
+    "availability": "April - June",
+    "benefits": "Packed with Vitamin C and Manganese",
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m2", "m4", "m8"]
+  },
+  {
+    "id": "p7",
+    "name": "Crisp Tuscan Kale",
+    "category": "Vegetables",
+    "season": "Winter",
+    "description": "Dark green Lacinato kale harvested after the first frost for optimal sweetness. Ideal for soups, chips, and salads.",
+    "availability": "November - March",
+    "benefits": "Abundant in Vitamin K, Vitamin A, and Iron",
+    "image": "/images/produce-kale.jpg",
+    "relatedMarkets": ["m3", "m5", "m9", "m10"]
+  },
+  {
+    "id": "p8",
+    "name": "Garden Rosemary Sprigs",
+    "category": "Herbs",
+    "season": "All-Year",
+    "description": "Woody, highly fragrant rosemary bunches grown in sunny farm garden beds. Outstanding for roasts and artisan bread.",
+    "availability": "Year-Round",
+    "benefits": "Boosts memory retention and digestion",
+    "image": "https://images.unsplash.com/photo-1515586000433-45406d8e6662?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m2", "m3", "m7", "m10"]
+  },
+  {
+    "id": "p9",
+    "name": "Cultured Farm Milk & Butter",
+    "category": "Dairy",
+    "season": "All-Year",
+    "description": "Golden grass-fed farm butter and non-homogenized whole milk from pasture-raised Heritage cows.",
+    "availability": "Year-Round",
+    "benefits": "Rich in Omega-3 fatty acids and Vitamin D",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m1", "m4", "m5", "m6"]
+  },
+  {
+    "id": "p10",
+    "name": "Golden Organic Quinoa",
+    "category": "Grains",
+    "season": "All-Year",
+    "description": "High-protein ancient grain cultivated sustainably. Fluffy texture and mild nutty taste for bowls and salads.",
+    "availability": "Year-Round",
+    "benefits": "Complete protein source with all 9 essential amino acids",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+    "relatedMarkets": ["m4", "m5", "m8", "m9"]
+  },
+  {
+    "id": "p11",
+    "name": "Sun-Gold Sweet Peaches",
+    "category": "Fruits",
+    "season": "Summer",
+    "description": "Tree-ripened yellow peaches bursting with natural nectar. Harvested at peak ripeness for ultimate flavor.",
+    "availability": "July - September",
+    "benefits": "High in Vitamin A, Vitamin C, and Potassium",
+    "image": "/images/produce-peaches.jpg",
+    "relatedMarkets": ["m1", "m2", "m4", "m10"]
+  },
+  {
+    "id": "p12",
+    "name": "Organic Rainbow Carrots",
+    "category": "Vegetables",
+    "season": "Autumn",
+    "description": "Vibrant purple, orange, and yellow root carrots freshly pulled from rich organic loam soils.",
+    "availability": "August - December",
+    "benefits": "Rich in Beta-carotene and eye-health nutrients",
+    "image": "/images/produce-carrots.jpg",
+    "relatedMarkets": ["m2", "m3", "m6", "m9", "m10"]
+  },
+  {
+    "id": "p13",
+    "name": "Golden Sweet Summer Corn",
+    "category": "Vegetables",
+    "season": "Summer",
+    "description": "Crisp, sun-drenched golden sweet corn harvested fresh at daybreak. Tender, milky kernels bursting with farm-fresh sweetness.",
+    "availability": "June - September",
+    "benefits": "Rich in Dietary Fiber, Lutein, and Essential B-Vitamins",
+    "image": "/images/produce-sweetcorn.jpg",
+    "relatedMarkets": ["m1", "m2", "m4", "m8", "m11"]
+  }
+]
